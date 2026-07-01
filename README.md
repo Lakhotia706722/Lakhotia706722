@@ -1,94 +1,82 @@
 <div align="center">
 
-<!-- Replace this with your own banner image -->
-<img src="https://raw.githubusercontent.com/Lakhotia706722/Lakhotia706722/main/assets/banner.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/Lakhotia706722/Lakhotia706722/main/assets/banner.png" width="100%" alt="Shreyansh Lakhotiya Banner"/>
 
-# Hi there, I'm Shreyansh Lakhotiya 👋
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Systems;FastAPI+%7C+Python+%7C+LLMs+%7C+PostgreSQL;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Backend+Engineer;Building+Scalable+AI+Systems;FastAPI+%7C+Python+%7C+PostgreSQL+%7C+LLMs)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<br>
 
-  <a href="mailto:lakhotiashreyansh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="https://github.com/Lakhotia706722">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="mailto:lakhotiashreyansh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=Lakhotia706722&style=for-the-badge&color=0e75b6)
+<br><br>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student
 
-🤖 Passionate about **AI Engineering, Full Stack Development, Backend Systems and Developer Tools**
+🚀 Passionate about building production-ready AI systems, scalable backend architectures, developer tools, and full-stack applications.
 
-🚀 I enjoy building production-ready applications that solve real-world problems using AI, automation, scalable backend architecture and modern web technologies.
+💡 I enjoy transforming complex ideas into real-world products by combining software engineering, AI, automation, and product thinking.
 
-💡 My interests include:
+### Current Interests
 
-- AI Agents
-- LLM Applications
+- AI Engineering
+- AI Agents & LLM Applications
+- Backend Development
 - AI Observability
-- Backend Engineering
-- Distributed Systems
-- System Design
-- Developer Platforms
+- Exploring LangChain, RAG, LangGraph & MCP
+- Developer Tools
 
----
 
-# 🚀 Currently Working On
+# 💻 Tech Stack
 
-- 🔭 **Tracebase** — AI Agent Governance & Observability Platform
-- 🎙 **Verbalystic** — Real-Time AI Speech Analysis Platform
-- 🧠 Learning **System Design, Docker, Kubernetes and LangGraph**
-- 🌱 Exploring **AI Agents, RAG, MCP and Distributed Systems**
+<div align="center">
 
----
-
-# 🛠 Tech Stack
-
-## Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&perline=8"/>
 </p>
 
-## Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=8"/>
 </p>
 
-## Frontend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=8"/>
 </p>
 
-## Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&perline=8"/>
 </p>
 
-## AI & Machine Learning
+### AI & Machine Learning
 
 <p>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangGraph-00B894?style=for-the-badge"/>
 
@@ -100,86 +88,148 @@
 
 </p>
 
-## Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&perline=8"/>
 </p>
-
----
-
-# ⭐ Featured Projects
-
-## 🚀 Tracebase
-
-> AI Agent Governance & Observability Platform
-
-### Features
-
-- Real-time Session Tracing
-- Multi-Agent Monitoring
-- Cost Analytics
-- Human-in-the-Loop Approval
-- PII Auto Masking
-- Audit Logs
-- Live Dashboards
-- WebSocket Updates
-
-**Tech**
-
-`Python` `FastAPI` `PostgreSQL` `WebSockets`
-
----
-
-## 🎙 Verbalystic
-
-> AI Powered Communication Coach
-
-### Features
-
-- Live Speech Analysis
-- Sentiment Detection
-- Filler Word Detection
-- Speech Speed Analysis
-- Voice Insights
-- Interactive Dashboard
-
-**Tech**
-
-`FastAPI` `Python` `JavaScript` `PostgreSQL`
-
----
-
-## 🧠 NeuronHire
-
-> AI Talent Infrastructure & Hiring Marketplace
-
-### Features
-
-- AI Candidate Ranking
-- Hiring Marketplace
-- Escrow Workflow
-- AI Recommendations
-- Live Analytics
-- Task Orchestration
-
-**Tech**
-
-`Python`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lakhotia706722&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhotia706722&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Tracebase
+
+### AI Agent Governance & Observability Platform
+
+✔ Real-Time Session Tracing
+
+✔ Multi-Agent Monitoring
+
+✔ AI Cost Analytics
+
+✔ Human-in-the-Loop Workflows
+
+✔ PII Auto Masking
+
+✔ Audit Logs
+
+✔ Compliance Monitoring
+
+✔ WebSocket Live Updates
+
+**Tech Stack**
+
+`Python`
+`FastAPI`
+`PostgreSQL`
+`WebSockets`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎙 Verbalystic
+
+### Real-Time Speech Analysis Platform
+
+✔ Live Audio Processing
+
+✔ Speech Speed Analysis
+
+✔ Sentiment Detection
+
+✔ Filler Word Detection
+
+✔ Voice Insights
+
+✔ Interactive Dashboards
+
+✔ Communication Coaching
+
+**Tech Stack**
+
+`Python`
+`FastAPI`
+`JavaScript`
+`PostgreSQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 NeuronHire
+
+### AI Hiring Infrastructure
+
+✔ AI Candidate Ranking
+
+✔ Skill Verification
+
+✔ Escrow Payments
+
+✔ Hiring Pipelines
+
+✔ Task Orchestration
+
+✔ AI Recommendations
+
+✔ Marketplace Architecture
+
+**Tech Stack**
+
+`Python`
+`FastAPI`
+`PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛍 Eraya Jewellery
+
+### D2C E-Commerce Platform
+
+✔ Shopify Store
+
+✔ Custom UI/UX
+
+✔ Inventory Management
+
+✔ AI Automation
+
+✔ Marketing Analytics
+
+✔ Customer Segmentation
+
+✔ Workflow Automation
+
+**Tech Stack**
+
+`Shopify`
+`Automation`
+`Analytics`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Statistics 
 
 <div align="center">
 
@@ -189,7 +239,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
@@ -199,13 +249,15 @@
 
 ---
 
-# 📊 GitHub Profile Summary
+# Profile Summary
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakhotia706722&theme=tokyonight"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -215,6 +267,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakhotia706722&theme=tokyonight"/>
@@ -223,26 +277,19 @@
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lakhotia706722&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
 # 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- 🏅 Oracle Cloud Infrastructure 2025 AI Foundation Associate
-- 🏅 Cisco Python Essentials 1 & 2
-- 🏅 Cisco Introduction to Modern AI
-- 🏅 Cisco Introduction to Data Science
-- 🏅 Cisco Apply AI: Analyze Customer Review
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle Cloud Infrastructure 2025 Certified AI Foundation Associate
+- Cisco Python Essentials 1
+- Cisco Python Essentials 2
+- Cisco Introduction to Modern AI
+- Cisco Introduction to Data Science
+- Cisco Apply AI: Analyze Customer Reviews
+- Web Development – Apna College
 
 ---
 
@@ -250,44 +297,18 @@
 
 - AI Agents
 - LangGraph
-- MCP
-- Kubernetes
+- MCP Servers
 - Docker
-- Advanced System Design
-- High Scale Backend Architecture
-
----
-
-# 💡 Fun Fact
-
-> I love building AI products that solve real-world problems rather than demo applications.
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:lakhotiashreyansh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Lakhotia706722">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
+- Kubernetes
+- Distributed Systems
+- High Scale Backend Design
+- Production AI Infrastructure
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building scalable software, crafting intelligent AI systems, and constantly learning something new."*
+*"Building intelligent systems, scalable software, and impactful products."*
 
 </div>
