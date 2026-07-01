@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lakhotia706722/Lakhotia706722/main/assets/banner.png" width="100%" alt="Shreyansh Lakhotiya Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:2563EB,70:7C3AED,100:0F172A&text=Shreyansh%20Lakhotiya&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+Scalable+AI+Systems;Developing+Production-Ready+AI+Applications;FastAPI+%7C+Python+%7C+PostgreSQL+%7C+LLMs;AI+Agents+%7C+Developer+Tools+%7C+Automation;Always+Learning+🚀)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Backend+Engineer;Building+Scalable+AI+Systems;FastAPI+%7C+Python+%7C+PostgreSQL+%7C+LLMs)](https://git.io/typing-svg)
-
-<br>
 
 <a href="https://www.linkedin.com/in/shreyansh-lakhotiya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
